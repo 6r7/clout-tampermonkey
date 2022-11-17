@@ -1,5 +1,5 @@
 # clout-tampermonkey
-Clout.cx username effect. You can set your name effect like helios or wes have on their clout profiles. Once you open your clout profile(be sure to be logged in)
+Clout.cx username effect. You can set your name effect like helios or wes have on their clout profiles. Once you open your clout profile(be sure to be logged in).
 You will see two buttons, they correspond to the effects owners have.
 
 ![Screenshot_2022-11-17_15-32-29](https://user-images.githubusercontent.com/79900913/202474112-97126a47-fc1e-464f-9ea9-c6bebf671f78.png)
