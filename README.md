@@ -17,3 +17,7 @@ This is entirely client-side, no one else but you can see this
 Made for use with tampermonkey
 
 Made by clout.cx/9 feel free to improve this, I am bad lol.
+
+How to install: 
+
+Instructions here: https://www.tampermonkey.net/scripts.php or just click on the raw button(copy everything inside)on the JS file and install in tampermonkey
