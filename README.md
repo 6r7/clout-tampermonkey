@@ -13,5 +13,7 @@ Wes effect:
 ![Screenshot_2022-11-17_15-33-00](https://user-images.githubusercontent.com/79900913/202474470-70c74c10-13bd-4fa5-9ca8-8800f8c2f9ab.png).
 
 This is entirely client-side, no one else but you can see this
+
 Made for use with tampermonkey
+
 Made by clout.cx/9 feel free to improve this, I am bad lol.
