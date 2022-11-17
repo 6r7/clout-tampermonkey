@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Clout.cx username effect
+// @name         Clout.cx Username Effect
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  [client-side]
 // @author       clout.cx/9
 // @match        *clout.cx/*
@@ -22,6 +22,7 @@
 // @exclude      *clout.cx/blogs/*
 // @homepageURL  https://clout.cx/9
 // @icon         https://clout.cx/content/uploads/photos/2021/12/clout_29ca7f99848e1456e01f9e7d76ea930c.png
+// @license      GNU GPLv2
 // ==/UserScript==
 
 (function()
