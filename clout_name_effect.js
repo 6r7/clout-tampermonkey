@@ -76,3 +76,4 @@ console.log("You don't own this profile, script aborting")
 // <a href="https://clout.cx/9"> 9</a>
 // profile-name-wrapper
 // <div class="profile-cover-delete ">
+// beta tester: clout.cx/tz
