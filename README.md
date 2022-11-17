@@ -1,4 +1,7 @@
 # clout-tampermonkey
+
+License GNU GPLv2
+
 Clout.cx username effect. You can set your name effect like helios or wes have on their clout profiles. Once you open your clout profile(be sure to be logged in).
 You will see two buttons, they correspond to the effects owners have.
 
