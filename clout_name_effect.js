@@ -66,7 +66,7 @@ yyy.addEventListener("click", insertF, false);
 else
 
 {
-console.log("You don't own this profile, scripta aborting")
+console.log("You don't own this profile, script aborting")
 }
 
  })();
